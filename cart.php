@@ -50,7 +50,7 @@ if(!isset($_SESSION["uid"])){
 									<li class="divider"></li>
 									<li><a href="#"><span class="glyphicon glyphicon-lock"></span> Change Password</a></li>
 									<li class="divider"></li>
-									<li><a href="logout.php"><span class="glyphicon glyphicon-log-out"></span> LogOut</a></li>
+									<li><a href="logout.php"><span class="glyphicon glyphicon-log-out"></span> Log Out</a></li>
 								</ul>
 							
 						</li>
